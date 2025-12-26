@@ -1,5 +1,0 @@
-pyrogram
-tgcrypto
-flask
-flask-sqlalchemy
-aiohttp
